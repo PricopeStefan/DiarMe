@@ -18,5 +18,9 @@ Helper: HTMLPurifier,AJAX-Controller(requesting CSRF tokens when AJAX is in plac
 Development environment: XAMPP
 
 *******************
-DiarMe is an environment in with users can safely store they most precious life moment.  
+DiarMe is an environment in with users can safely store they most precious life moments.
+
+~Made by~
+https://github.com/georgerc 
+https://github.com/Sleshwave  
 **************************
