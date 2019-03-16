@@ -22,5 +22,5 @@ DiarMe is an environment in with users can safely store they most precious life 
 
 ~Made by~
 https://github.com/georgerc 
-https://github.com/Sleshwave  
+https://github.com/PricopeStefan
 **************************
